@@ -5,8 +5,8 @@ ALL VERSIONS AND BETA VERSIONS ABOVE
 
 HOW TO USE ON LINUX:
 1. IN YOUR TERMINAL TYPE: "sudo pip install pyautogui"
-2. THEN TYPE "sudo pip install pynput"
-3. THEN DO "sudo python3 bloodclicker(version).py
+2. THEN TYPE "sudo pip install keyboard"
+3. THEN DO "sudo python bloodclicker(version).py
 
 HOW TO USE ON WINDOWS:
 1. DOWNLOAD PYTHON FROM python.org
