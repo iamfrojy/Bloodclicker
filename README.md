@@ -6,7 +6,8 @@ ALL VERSIONS AND BETA VERSIONS ABOVE
 HOW TO USE ON LINUX:
 1. IN YOUR TERMINAL TYPE: "sudo pip install pyautogui"
 2. THEN TYPE "sudo pip install keyboard"
-3. THEN DO "sudo python bloodclicker(version).py
+3. THEN TYPE "sudo pip install colorama"
+4. THEN DO "sudo python bloodclicker(version).py
 
 HOW TO USE ON WINDOWS:
 1. DOWNLOAD PYTHON FROM python.org
