@@ -1,5 +1,9 @@
-# Bloodclicker
-ALL VERSIONS AND BETA VERSIONS ABOVE
+# Bloodclicker 
+A minecraft autoclicker made in python, thats simple to use. youtube.com/@bloodclickerminecraft
+CPS (CURRENTLY ON BETA: 10-15)
+
+Download on releases.
+USING GUIDE BELOW.
 
 HOW TO USE ON LINUX:
 1. IN YOUR TERMINAL TYPE: "sudo pip install pyautogui"
